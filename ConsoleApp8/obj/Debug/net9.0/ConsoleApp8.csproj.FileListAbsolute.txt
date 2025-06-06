@@ -1,0 +1,14 @@
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.AssemblyInfo.cs
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.exe
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.deps.json
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.runtimeconfig.json
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.dll
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.pdb
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.dll
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\obj\Debug\net9.0\refint\ConsoleApp8.dll
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.pdb
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.genruntimeconfig.cache
+D:\it_step\c#\ConsoleApp8\ConsoleApp8\obj\Debug\net9.0\ref\ConsoleApp8.dll
